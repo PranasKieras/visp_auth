@@ -1,0 +1,7 @@
+# backend/requirements.txt
+fastapi==0.103.1
+uvicorn==0.23.2
+python-multipart==0.0.6
+requests==2.32.3
+PyJWT==2.10.1
+pydantic~=2.10.6
